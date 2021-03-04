@@ -1,4 +1,4 @@
 # **ESTATÍSTICA APLICADA A COMPUTAÇÃO**
 
-Folder with discipline
-Computational statistics("ESTATÍSTICA APLICADA A COMPUTAÇÃO") files.
+Folder with files of discipline
+Computational statistics("ESTATÍSTICA APLICADA A COMPUTAÇÃO").
