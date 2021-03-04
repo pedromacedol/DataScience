@@ -1,0 +1,2 @@
+# ESTATISTICA_APLICADA_A_COMPUTACAO
+Estatística Aplicada a Computação
