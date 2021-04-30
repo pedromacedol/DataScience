@@ -1,3 +1,3 @@
-# **ESTATÍSTICA APLICADA A COMPUTAÇÃO**
+# **COMPUTATIONAL STATISTICS**
 
-Folder with files of discipline Computational Statistics (ESTATÍSTICA APLICADA A COMPUTAÇÃO).
+Folder with files of the subject Computational Statistics.
